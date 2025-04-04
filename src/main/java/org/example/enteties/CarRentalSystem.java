@@ -14,6 +14,7 @@ public class CarRentalSystem {
 
     private List<Rental> rentals;
 
+
     public CarRentalSystem() {
 
         cars = new ArrayList<>();
